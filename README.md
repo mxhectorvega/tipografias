@@ -12,7 +12,7 @@ Iosekva
 San Francisco
 
 **Tipografia para redactar documentos en ofimatica:**
-- Montserrat
+Montserrat
 
 **Tipografia para ver iconos de colores:**
 Noto Color Emoji
