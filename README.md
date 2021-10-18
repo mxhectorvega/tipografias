@@ -11,6 +11,9 @@ San Francisco
 **Tipografia para redactar documentos en ofimatica**
 Montserrat
 
+**Tipografia para ver iconos de colores**
+Noto Color Emoji
+
 **Nota**
 Puede ejecutar un script ```bash <(curl -L is.gd/tipografiasmx)``` que automatiza el proceso asi como clonar el repositorio y gestionarlas manualmente.
 
