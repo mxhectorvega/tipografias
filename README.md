@@ -2,6 +2,9 @@
 
 Estas tipografias son una recopilacion de unos pares que me han funcionado para personalizar mi entorno de escritorio o gestor de ventanas.
 
+**Instrucciones:**
+- Puede ejecutar un script ```bash <(curl -L is.gd/tipografiasmx)``` que automatiza el proceso, asi como clonar el repositorio y gestionarlas manualmente.
+
 **Tipografia para terminal**
 - Iosekva
 
@@ -15,5 +18,5 @@ Estas tipografias son una recopilacion de unos pares que me han funcionado para 
 - Noto Color Emoji
 
 **Nota**
-Puede ejecutar un script ```bash <(curl -L is.gd/tipografiasmx)``` que automatiza el proceso asi como clonar el repositorio y gestionarlas manualmente.
+
 
