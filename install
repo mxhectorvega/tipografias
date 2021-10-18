@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+clear
+echo -e ""
+echo -e ""
+echo -e "Copiando tipografias..."
+sleep 2
+mkdir ~/.local/share
+mkdir ~/.local/share/fonts
+clear
+git clone https://github.com/mxhectorvega/tipografias /tmp/tipografias
+cp -R /tpm/tipografias/* ~/.local/share/fonts
+clear
+echo -e ""
+echo -e ""
+echo -e "Contribuye payal.me/hivz"
+sleep 2
+exit
+
